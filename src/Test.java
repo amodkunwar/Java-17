@@ -6,5 +6,6 @@ public class Test {
 		System.out.println(carRecord);
 		System.out.println(carRecord.getLocation());
 		System.out.println(carRecord.ownerName());
+		
 	}
 }
